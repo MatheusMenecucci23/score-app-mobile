@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ex2</string>
+    <string name="time1">Time 1</string>
+    <string name="time2">Time 2</string>
+    <string name="pontost1">0</string>
+    <string name="pontost2">0</string>
+    <string name="doublepoints">:</string>
+
+    <string name="lancelivre">Lance Livre</string>
+    <string name="twopoints">2 Pontos</string>
+    <string name="threepoints">3 Pontos</string>
+    <string name="voltarlance">Voltar o Lance</string>
+
+
+
+
+</resources>
